@@ -1,2 +1,2 @@
 # labwcdots
-![](.assets/screenshot.png)
+![screenshot](screenshot.png)
